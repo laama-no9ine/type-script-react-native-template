@@ -1,0 +1,11 @@
+{
+  "app": {
+    "appName": "Cuisinette",
+    "loading": "Loading",
+    "currency": "AED"
+  },
+  "modal": {
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  }
+}
